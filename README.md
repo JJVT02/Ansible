@@ -1,7 +1,7 @@
 # Ansible
 [![Code of Conduct](https://img.shields.io/badge/code%20of%20conduct-Ansible-yellow.svg)](https://docs.ansible.com/ansible/latest/community/code_of_conduct.html) 
 
-<img src="https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2017/10/ansible_logo.png">
+<img src="https://www.padok.fr/hubfs/Imported_Blog_Media/ansible_code.webp">
 
 ## [Introduccion](intro.md)
 ## [¿Que es ansible?](que.md)
