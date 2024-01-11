@@ -1,5 +1,5 @@
 # Introduccion
-<img src ="https://www.stonebranch.com/integration-hub/media/af/bb/5b/1624377571/Ansible-Redhat_Vendor_Product_Logo.svg">
+<img src ="https://blog.invgate.com/hubfs/ansible-herramienta-devops.jpg">
 
 
 
