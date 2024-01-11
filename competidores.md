@@ -2,7 +2,7 @@
 Algunos de los competidores de Ansible son:
 
 Selecciona los logos para saber mas :wink:
-
+<div style="display: flex; justify-content: space-between; margin: 60px;">
 
 <a href="https://www.chef.io/" title="enlace"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Chef_logo.svg/1200px-Chef_logo.svg.png" width="100"></a>
 
