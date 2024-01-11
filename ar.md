@@ -1,0 +1,2 @@
+# Arquitectura y componentes
+Ansible sigue un modelo de arquitectura cliente-servidor y consta de tres componentes principales: nodos de control, nodos gestionados y canales de comunicación. Ansible utiliza módulos, utilidades de módulos, complementos, inventario y libros de jugadas para automatizar tareas.
