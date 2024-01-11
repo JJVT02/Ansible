@@ -11,5 +11,4 @@ Selecciona los logos para saber mas :wink:
 <a href="https://saltproject.io/index.html" title="enlace"><img src="https://www.opensourceforu.com/wp-content/uploads/2021/10/Slat-Stack-Featured-image_OSFY-Oct.-2021.jpg" width="100"></a>
 <a href="https://www.terraform.io/" title="enlace"><img src="https://banner2.cleanpng.com/20180529/szy/kisspng-terraform-hashicorp-microsoft-azure-infrastructure-5b0e0b6cc80963.2449977615276470848194.jpg" width="150"> </a>
 <a href="https://www.jenkins.io/" title="enlace"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/2560px-Jenkins_logo_with_title.svg.png" width="140"></a>
-
 </div>
